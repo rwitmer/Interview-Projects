@@ -14,4 +14,4 @@ df_w_embeddings.pkl	https://drive.google.com/file/d/1cCokepcMT77hWaA-FurzDQ9j9Q6
 
 Alternatively, you can reproduce the files by running the second notebook and uncommenting the lines that produce each file. However, the dataframes in question contain embeddings for all 18k rows of documents and will take 45 minutes to re-create using an A100 GPU on Google Colab. 
 
-Here is a problem.
+Now it's 7:20PM
